@@ -1,3 +1,6 @@
+## v3.1.6: 2020-08-23
+  * Removed `jake` dependency and CLI functionality that depended on it (@ty2k)
+
 ## v3.0.1: 2019-11-23
   * Removed require.extensions (@mde)
   * Removed legacy preprocessor include (@mde)
