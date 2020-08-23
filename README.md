@@ -1,3 +1,11 @@
+This is fork of [`ejs`](https://github.com/mde/ejs) with the CLI feature and associated `jake` dependency removed.
+
+This fork can be installed from npm with `npm i ejs-zero-dependenciess`.
+
+Original README below:
+
+---
+
 Embedded JavaScript templates<br/>
 [![Build Status](https://img.shields.io/travis/mde/ejs/master.svg?style=flat)](https://travis-ci.org/mde/ejs)
 [![Developing Dependencies](https://img.shields.io/david/dev/mde/ejs.svg?style=flat)](https://david-dm.org/mde/ejs?type=dev)
